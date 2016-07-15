@@ -1,0 +1,164 @@
+# P	ENGAGEName	BioCrateshortName	ENGAGEBiochemicalName	BioCratesBiochemicalName	Class
+1	C0	C0	Carnitine	Carnitine	acylcarnitines
+2	C10	C10	Decanoylcarnitine	Decanoylcarnitine	acylcarnitines
+3	C10.1	C10:1	Decenoylcarnitine	Decenoylcarnitine	acylcarnitines
+4	C10.2	C10:2	Decadienylcarnitine	Decadienylcarnitine	acylcarnitines
+5	C12	C12	Dodecanoylcarnitine	Dodecanoylcarnitine	acylcarnitines
+6	C12.DC	C12-DC	Dodecanedioylcarnitine	Dodecanedioylcarnitine	acylcarnitines
+7	C12.1	C12:1	Dodecenoylcarnitine	Dodecenoylcarnitine	acylcarnitines
+8	C14	C14	Tetradecanoylcarnitine	Tetradecanoylcarnitine	acylcarnitines
+9	C14.1	C14:1	Tetradecenoylcarnitine	Tetradecenoylcarnitine	acylcarnitines
+10	C14.1.OH	C14:1-OH	Hydroxytetradecenoylcarnitine	Hydroxytetradecenoylcarnitine	acylcarnitines
+11	C14.2	C14:2	Tetradecadienylcarnitine	Tetradecadienylcarnitine	acylcarnitines
+12	C14.2.OH	C14:2-OH	Hydroxytetradecadienylcarnitine	Hydroxytetradecadienylcarnitine	acylcarnitines
+13	C16	C16	Hexadecanoylcarnitine	Hexadecanoylcarnitine	acylcarnitines
+14	C16.OH	C16-OH	Hydroxyhexadecanoylcarnitine	Hydroxyhexadecanoylcarnitine	acylcarnitines
+15	C16.1	C16:1	Hexadecenoylcarnitine	Hexadecenoylcarnitine	acylcarnitines
+16	C16.1.OH	C16:1-OH	Hydroxyhexadecenoylcarnitine	Hydroxyhexadecenoylcarnitine	acylcarnitines
+17	C16.2	C16:2	Hexadecadienylcarnitine	Hexadecadienylcarnitine	acylcarnitines
+18	C16.2.OH	C16:2-OH	Hydroxyhexadecadienylcarnitine	Hydroxyhexadecadienylcarnitine	acylcarnitines
+19	C18	C18	Octadecanoylcarnitine	Octadecanoylcarnitine	acylcarnitines
+20	C18.1	C18:1	Octadecenoylcarnitine	Octadecenoylcarnitine	acylcarnitines
+21	C18.1.OH	C18:1-OH	Hydroxyoctadecenoylcarnitine	Hydroxyoctadecenoylcarnitine	acylcarnitines
+22	C18.2	C18:2	Octadecadienylcarnitine	Octadecadienylcarnitine	acylcarnitines
+23	C2	C2	Acetylcarnitine	Acetylcarnitine	acylcarnitines
+24	C3	C3	Propionylcarnitine	Propionylcarnitine	acylcarnitines
+25	C3.DC.C4.OH	C3-DC (C4-OH)	Hydroxybutyrylcarnitine	Hydroxybutyrylcarnitine	acylcarnitines
+26	C3.OH	C3-OH	Hydroxypropionylcarnitine	Hydroxypropionylcarnitine	acylcarnitines
+27	C3.1	C3:1	Propenoylcarnitine	Propenoylcarnitine	acylcarnitines
+28	C4	C4	Butyrylcarnitine	Butyrylcarnitine	acylcarnitines
+29	C4.1	C4:1	Butenylcarnitine	Butenylcarnitine	acylcarnitines
+30	C5	C5	Valerylcarnitine	Valerylcarnitine	acylcarnitines
+31	C5.DC.C6.OH	C5-DC (C6-OH)	Glutarylcarnitine_(Hydroxyhexanoylcarnitine)	Glutarylcarnitine (Hydroxyhexanoylcarnitine)	acylcarnitines
+32	C5.M.DC	C5-M-DC	Methylglutarylcarnitine	Methylglutarylcarnitine	acylcarnitines
+33	C5.OH.C3.DC.M	C5-OH (C3-DC-M)	Hydroxyvalerylcarnitine_(Methylmalonylcarnitine)	Hydroxyvalerylcarnitine (Methylmalonylcarnitine)	acylcarnitines
+34	C5.1	C5:1	Tiglylcarnitine	Tiglylcarnitine	acylcarnitines
+35	C5.1.DC	C5:1-DC	Glutaconylcarnitine	Glutaconylcarnitine	acylcarnitines
+36	C6.C4.1.DC	C6 (C4:1-DC)	Hexonoylcarnitine_(Fumarylcarnitine)	Hexonoylcarnitine (Fumarylcarnitine)	acylcarnitines
+37	C6.1	C6:1	Hexenoylcarnitine	Hexenoylcarnitine	acylcarnitines
+38	C7.DC	C7-DC	Pimelylcarnitine	Pimelylcarnitine	acylcarnitines
+39	C8	C8	Octanoylcarnitine	Octanoylcarnitine 	acylcarnitines
+40	C8.1	C8:1	Octenoylcarnitine	Octenoylcarnitine	acylcarnitines
+41	C9	C9	Nonaylcarnitine	Nonaylcarnitine	acylcarnitines
+42	Arg	Arg	Arginine	Arginine	aminoacids
+43	Gln	Gln	Glutamine	Glutamine	aminoacids
+44	Gly	Gly	Glycine	Glycine	aminoacids
+45	His	His	Histidine	Histidine	aminoacids
+46	Met	Met	Methionine	Methionine	aminoacids
+47	Orn	Orn	Ornithine	Ornithine	aminoacids
+48	Phe	Phe	Phenylalanine	Phenylalanine	aminoacids
+49	Pro	Pro	Proline	Proline	aminoacids
+50	Ser	Ser	Serine	Serine	aminoacids
+51	Thr	Thr	Threonine	Threonine	aminoacids
+52	Trp	Trp	Tryptophan	Tryptophan	aminoacids
+53	Tyr	Tyr	Tyrosine	Tyrosine	aminoacids
+54	Val	Val	Valine	Valine	aminoacids
+55	xLeu	xLeu	Leucine_/_Isoleucine	Leucine / Isoleucine	aminoacids
+56	PC.aa.C24.0	PC aa C24:0	Phosphatidylcholine_diacyl_C24:0	Phosphatidylcholine diacyl C24:0	glycerophospholipids
+57	PC.aa.C26.0	PC aa C26:0	Phosphatidylcholine_diacyl_C26:0	Phosphatidylcholine diacyl C26:0	glycerophospholipids
+58	PC.aa.C28.1	PC aa C28:1	Phosphatidylcholine_diacyl_C28:1	Phosphatidylcholine diacyl C28:1	glycerophospholipids
+59	PC.aa.C30.0	PC aa C30:0	Phosphatidylcholine_diacyl_C30:0	Phosphatidylcholine diacyl C30:0	glycerophospholipids
+60	PC.aa.C30.2	PC aa C30:2	Phosphatidylcholine_diacyl_C30:2	Phosphatidylcholine diacyl C30:2	glycerophospholipids
+61	PC.aa.C32.0	PC aa C32:0	Phosphatidylcholine_diacyl_C32:0	Phosphatidylcholine diacyl C32:0	glycerophospholipids
+62	PC.aa.C32.1	PC aa C32:1	Phosphatidylcholine_diacyl_C32:1	Phosphatidylcholine diacyl C32:1	glycerophospholipids
+63	PC.aa.C32.2	PC aa C32:2	Phosphatidylcholine_diacyl_C32:2	Phosphatidylcholine diacyl C32:2	glycerophospholipids
+64	PC.aa.C32.3	PC aa C32:3	Phosphatidylcholine_diacyl_C32:3	Phosphatidylcholine diacyl C32:3	glycerophospholipids
+65	PC.aa.C34.1	PC aa C34:1	Phosphatidylcholine_diacyl_C34:1	Phosphatidylcholine diacyl C34:1	glycerophospholipids
+66	PC.aa.C34.2	PC aa C34:2	Phosphatidylcholine_diacyl_C34:2	Phosphatidylcholine diacyl C34:2	glycerophospholipids
+67	PC.aa.C34.3	PC aa C34:3	Phosphatidylcholine_diacyl_C34:3	Phosphatidylcholine diacyl C34:3	glycerophospholipids
+68	PC.aa.C34.4	PC aa C34:4	Phosphatidylcholine_diacyl_C34:4	Phosphatidylcholine diacyl C34:4	glycerophospholipids
+69	PC.aa.C36.0	PC aa C36:0	Phosphatidylcholine_diacyl_C36:0	Phosphatidylcholine diacyl C36:0	glycerophospholipids
+70	PC.aa.C36.1	PC aa C36:1	Phosphatidylcholine_diacyl_C36:1	Phosphatidylcholine diacyl C36:1	glycerophospholipids
+71	PC.aa.C36.2	PC aa C36:2	Phosphatidylcholine_diacyl_C36:2	Phosphatidylcholine diacyl C36:2	glycerophospholipids
+72	PC.aa.C36.3	PC aa C36:3	Phosphatidylcholine_diacyl_C36:3	Phosphatidylcholine diacyl C36:3	glycerophospholipids
+73	PC.aa.C36.4	PC aa C36:4	Phosphatidylcholine_diacyl_C36:4	Phosphatidylcholine diacyl C36:4	glycerophospholipids
+74	PC.aa.C36.5	PC aa C36:5	Phosphatidylcholine_diacyl_C36:5	Phosphatidylcholine diacyl C36:5	glycerophospholipids
+75	PC.aa.C36.6	PC aa C36:6	Phosphatidylcholine_diacyl_C36:6	Phosphatidylcholine diacyl C36:6	glycerophospholipids
+76	PC.aa.C38.0	PC aa C38:0	Phosphatidylcholine_diacyl_C38:0	Phosphatidylcholine diacyl C38:0	glycerophospholipids
+77	PC.aa.C38.1	PC aa C38:1	Phosphatidylcholine_diacyl_C38:1	Phosphatidylcholine diacyl C38:1	glycerophospholipids
+78	PC.aa.C38.3	PC aa C38:3	Phosphatidylcholine_diacyl_C38:3	Phosphatidylcholine diacyl C38:3	glycerophospholipids
+79	PC.aa.C38.4	PC aa C38:4	Phosphatidylcholine_diacyl_C38:4	Phosphatidylcholine diacyl C38:4	glycerophospholipids
+80	PC.aa.C38.5	PC aa C38:5	Phosphatidylcholine_diacyl_C38:5	Phosphatidylcholine diacyl C38:5	glycerophospholipids
+81	PC.aa.C38.6	PC aa C38:6	Phosphatidylcholine_diacyl_C38:6	Phosphatidylcholine diacyl C38:6	glycerophospholipids
+82	PC.aa.C40.1	PC aa C40:1	Phosphatidylcholine_diacyl_C40:1	Phosphatidylcholine diacyl C40:1	glycerophospholipids
+83	PC.aa.C40.2	PC aa C40:2	Phosphatidylcholine_diacyl_C40:2	Phosphatidylcholine diacyl C40:2	glycerophospholipids
+84	PC.aa.C40.3	PC aa C40:3	Phosphatidylcholine_diacyl_C40:3	Phosphatidylcholine diacyl C40:3	glycerophospholipids
+85	PC.aa.C40.4	PC aa C40:4	Phosphatidylcholine_diacyl_C40:4	Phosphatidylcholine diacyl C40:4	glycerophospholipids
+86	PC.aa.C40.5	PC aa C40:5	Phosphatidylcholine_diacyl_C40:5	Phosphatidylcholine diacyl C40:5	glycerophospholipids
+87	PC.aa.C40.6	PC aa C40:6	Phosphatidylcholine_diacyl_C40:6	Phosphatidylcholine diacyl C40:6	glycerophospholipids
+88	PC.aa.C42.0	PC aa C42:0	Phosphatidylcholine_diacyl_C42:0	Phosphatidylcholine diacyl C42:0	glycerophospholipids
+89	PC.aa.C42.1	PC aa C42:1	Phosphatidylcholine_diacyl_C42:1	Phosphatidylcholine diacyl C42:1	glycerophospholipids
+90	PC.aa.C42.2	PC aa C42:2	Phosphatidylcholine_diacyl_C42:2	Phosphatidylcholine diacyl C42:2	glycerophospholipids
+91	PC.aa.C42.4	PC aa C42:4	Phosphatidylcholine_diacyl_C42:4	Phosphatidylcholine diacyl C42:4	glycerophospholipids
+92	PC.aa.C42.5	PC aa C42:5	Phosphatidylcholine_diacyl_C42:5	Phosphatidylcholine diacyl C42:5	glycerophospholipids
+93	PC.aa.C42.6	PC aa C42:6	Phosphatidylcholine_diacyl_C42:6	Phosphatidylcholine diacyl C42:6	glycerophospholipids
+94	PC.ae.C30.0	PC ae C30:0	Phosphatidylcholine_acyl-alkyl_C30:0	Phosphatidylcholine acyl-alkyl C30:0	glycerophospholipids
+95	PC.ae.C30.1	PC ae C30:1	Phosphatidylcholine_acyl-alkyl_C30:1	Phosphatidylcholine acyl-alkyl C30:1	glycerophospholipids
+96	PC.ae.C30.2	PC ae C30:2	Phosphatidylcholine_acyl-alkyl_C30:2	Phosphatidylcholine acyl-alkyl C30:2	glycerophospholipids
+97	PC.ae.C32.1	PC ae C32:1	Phosphatidylcholine_acyl-alkyl_C32:1	Phosphatidylcholine acyl-alkyl C32:1	glycerophospholipids
+98	PC.ae.C32.2	PC ae C32:2	Phosphatidylcholine_acyl-alkyl_C32:2	Phosphatidylcholine acyl-alkyl C32:2	glycerophospholipids
+99	PC.ae.C34.0	PC ae C34:0	Phosphatidylcholine_acyl-alkyl_C34:0	Phosphatidylcholine acyl-alkyl C34:0	glycerophospholipids
+100	PC.ae.C34.1	PC ae C34:1	Phosphatidylcholine_acyl-alkyl_C34:1	Phosphatidylcholine acyl-alkyl C34:1	glycerophospholipids
+101	PC.ae.C34.2	PC ae C34:2	Phosphatidylcholine_acyl-alkyl_C34:2	Phosphatidylcholine acyl-alkyl C34:2	glycerophospholipids
+102	PC.ae.C34.3	PC ae C34:3	Phosphatidylcholine_acyl-alkyl_C34:3	Phosphatidylcholine acyl-alkyl C34:3	glycerophospholipids
+103	PC.ae.C36.0	PC ae C36:0	Phosphatidylcholine_acyl-alkyl_C36:0	Phosphatidylcholine acyl-alkyl C36:0	glycerophospholipids
+104	PC.ae.C36.1	PC ae C36:1	Phosphatidylcholine_acyl-alkyl_C36:1	Phosphatidylcholine acyl-alkyl C36:1	glycerophospholipids
+105	PC.ae.C36.2	PC ae C36:2	Phosphatidylcholine_acyl-alkyl_C36:2	Phosphatidylcholine acyl-alkyl C36:2	glycerophospholipids
+106	PC.ae.C36.3	PC ae C36:3	Phosphatidylcholine_acyl-alkyl_C36:3	Phosphatidylcholine acyl-alkyl C36:3	glycerophospholipids
+107	PC.ae.C36.4	PC ae C36:4	Phosphatidylcholine_acyl-alkyl_C36:4	Phosphatidylcholine acyl-alkyl C36:4	glycerophospholipids
+108	PC.ae.C36.5	PC ae C36:5	Phosphatidylcholine_acyl-alkyl_C36:5	Phosphatidylcholine acyl-alkyl C36:5	glycerophospholipids
+109	PC.ae.C38.0	PC ae C38:0	Phosphatidylcholine_acyl-alkyl_C38:0	Phosphatidylcholine acyl-alkyl C38:0	glycerophospholipids
+110	PC.ae.C38.1	PC ae C38:1	Phosphatidylcholine_acyl-alkyl_C38:1	Phosphatidylcholine acyl-alkyl C38:1	glycerophospholipids
+111	PC.ae.C38.2	PC ae C38:2	Phosphatidylcholine_acyl-alkyl_C38:2	Phosphatidylcholine acyl-alkyl C38:2	glycerophospholipids
+112	PC.ae.C38.3	PC ae C38:3	Phosphatidylcholine_acyl-alkyl_C38:3	Phosphatidylcholine acyl-alkyl C38:3	glycerophospholipids
+113	PC.ae.C38.4	PC ae C38:4	Phosphatidylcholine_acyl-alkyl_C38:4	Phosphatidylcholine acyl-alkyl C38:4	glycerophospholipids
+114	PC.ae.C38.5	PC ae C38:5	Phosphatidylcholine_acyl-alkyl_C38:5	Phosphatidylcholine acyl-alkyl C38:5	glycerophospholipids
+115	PC.ae.C38.6	PC ae C38:6	Phosphatidylcholine_acyl-alkyl_C38:6	Phosphatidylcholine acyl-alkyl C38:6	glycerophospholipids
+116	PC.ae.C40.0	PC ae C40:0	Phosphatidylcholine_acyl-alkyl_C40:0	Phosphatidylcholine acyl-alkyl C40:0	glycerophospholipids
+117	PC.ae.C40.1	PC ae C40:1	Phosphatidylcholine_acyl-alkyl_C40:1	Phosphatidylcholine acyl-alkyl C40:1	glycerophospholipids
+118	PC.ae.C40.2	PC ae C40:2	Phosphatidylcholine_acyl-alkyl_C40:2	Phosphatidylcholine acyl-alkyl C40:2	glycerophospholipids
+119	PC.ae.C40.3	PC ae C40:3	Phosphatidylcholine_acyl-alkyl_C40:3	Phosphatidylcholine acyl-alkyl C40:3	glycerophospholipids
+120	PC.ae.C40.4	PC ae C40:4	Phosphatidylcholine_acyl-alkyl_C40:4	Phosphatidylcholine acyl-alkyl C40:4	glycerophospholipids
+121	PC.ae.C40.5	PC ae C40:5	Phosphatidylcholine_acyl-alkyl_C40:5	Phosphatidylcholine acyl-alkyl C40:5	glycerophospholipids
+122	PC.ae.C40.6	PC ae C40:6	Phosphatidylcholine_acyl-alkyl_C40:6	Phosphatidylcholine acyl-alkyl C40:6	glycerophospholipids
+123	PC.ae.C42.0	PC ae C42:0	Phosphatidylcholine_acyl-alkyl_C42:0	Phosphatidylcholine acyl-alkyl C42:0	glycerophospholipids
+124	PC.ae.C42.1	PC ae C42:1	Phosphatidylcholine_acyl-alkyl_C42:1	Phosphatidylcholine acyl-alkyl C42:1	glycerophospholipids
+125	PC.ae.C42.2	PC ae C42:2	Phosphatidylcholine_acyl-alkyl_C42:2	Phosphatidylcholine acyl-alkyl C42:2	glycerophospholipids
+126	PC.ae.C42.3	PC ae C42:3	Phosphatidylcholine_acyl-alkyl_C42:3	Phosphatidylcholine acyl-alkyl C42:3	glycerophospholipids
+127	PC.ae.C42.4	PC ae C42:4	Phosphatidylcholine_acyl-alkyl_C42:4	Phosphatidylcholine acyl-alkyl C42:4	glycerophospholipids
+128	PC.ae.C42.5	PC ae C42:5	Phosphatidylcholine_acyl-alkyl_C42:5	Phosphatidylcholine acyl-alkyl C42:5	glycerophospholipids
+129	PC.ae.C44.3	PC ae C44:3	Phosphatidylcholine_acyl-alkyl_C44:3	Phosphatidylcholine acyl-alkyl C44:3	glycerophospholipids
+130	PC.ae.C44.4	PC ae C44:4	Phosphatidylcholine_acyl-alkyl_C44:4	Phosphatidylcholine acyl-alkyl C44:4	glycerophospholipids
+131	PC.ae.C44.5	PC ae C44:5	Phosphatidylcholine_acyl-alkyl_C44:5	Phosphatidylcholine acyl-alkyl C44:5	glycerophospholipids
+132	PC.ae.C44.6	PC ae C44:6	Phosphatidylcholine_acyl-alkyl_C44:6	Phosphatidylcholine acyl-alkyl C44:6	glycerophospholipids
+133	lysoPC.a.C14.0	lysoPC a C14:0	lysoPhosphatidylcholine_acyl_C14:0	lysoPhosphatidylcholine acyl C14:0	glycerophospholipids
+134	lysoPC.a.C16.0	lysoPC a C16:0	lysoPhosphatidylcholine_acyl_C16:0	lysoPhosphatidylcholine acyl C16:0	glycerophospholipids
+135	lysoPC.a.C16.1	lysoPC a C16:1	lysoPhosphatidylcholine_acyl_C16:1	lysoPhosphatidylcholine acyl C16:1	glycerophospholipids
+136	lysoPC.a.C17.0	lysoPC a C17:0	lysoPhosphatidylcholine_acyl_C17:0	lysoPhosphatidylcholine acyl C17:0	glycerophospholipids
+137	lysoPC.a.C18.0	lysoPC a C18:0	lysoPhosphatidylcholine_acyl_C18:0	lysoPhosphatidylcholine acyl C18:0	glycerophospholipids
+138	lysoPC.a.C18.1	lysoPC a C18:1	lysoPhosphatidylcholine_acyl_C18:1	lysoPhosphatidylcholine acyl C18:1	glycerophospholipids
+139	lysoPC.a.C18.2	lysoPC a C18:2	lysoPhosphatidylcholine_acyl_C18:2	lysoPhosphatidylcholine acyl C18:2	glycerophospholipids
+140	lysoPC.a.C20.3	lysoPC a C20:3	lysoPhosphatidylcholine_acyl_C20:3	lysoPhosphatidylcholine acyl C20:3	glycerophospholipids
+141	lysoPC.a.C20.4	lysoPC a C20:4	lysoPhosphatidylcholine_acyl_C20:4	lysoPhosphatidylcholine acyl C20:4	glycerophospholipids
+142	lysoPC.a.C24.0	lysoPC a C24:0	lysoPhosphatidylcholine_acyl_C24:0	lysoPhosphatidylcholine acyl C24:0	glycerophospholipids
+143	lysoPC.a.C26.0	lysoPC a C26:0	lysoPhosphatidylcholine_acyl_C26:0	lysoPhosphatidylcholine acyl C26:0	glycerophospholipids
+144	lysoPC.a.C26.1	lysoPC a C26:1	lysoPhosphatidylcholine_acyl_C26:1	lysoPhosphatidylcholine acyl C26:1	glycerophospholipids
+145	lysoPC.a.C28.0	lysoPC a C28:0	lysoPhosphatidylcholine_acyl_C28:0	lysoPhosphatidylcholine acyl C28:0	glycerophospholipids
+146	lysoPC.a.C28.1	lysoPC a C28:1	lysoPhosphatidylcholine_acyl_C28:1	lysoPhosphatidylcholine acyl C28:1	glycerophospholipids
+147	lysoPC.a.C6.0	lysoPC a C6:0	lysoPhosphatidylcholine_acyl_C6:0	lysoPhosphatidylcholine acyl C6:0	glycerophospholipids
+148	SM.OH.C14.1	SM (OH) C14:1	Hydroxysphingomyeline_C14:1	Hydroxysphingomyeline C14:1	sphingolipids
+149	SM.OH.C16.1	SM (OH) C16:1	Hydroxysphingomyeline_C16:1	Hydroxysphingomyeline C16:1	sphingolipids
+150	SM.OH.C22.1	SM (OH) C22:1	Hydroxysphingomyeline_C22:1	Hydroxysphingomyeline C22:1	sphingolipids
+151	SM.OH.C22.2	SM (OH) C22:2	Hydroxysphingomyeline_C22:2	Hydroxysphingomyeline C22:2	sphingolipids
+152	SM.OH.C24.1	SM (OH) C24:1	Hydroxysphingomyeline_C24:1	Hydroxysphingomyeline C24:1	sphingolipids
+153	SM.C16.0	SM C16:0	Sphingomyeline_C16:0	Sphingomyeline C16:0	sphingolipids
+154	SM.C16.1	SM C16:1	Sphingomyeline_C16:1	Sphingomyeline C16:1	sphingolipids
+155	SM.C18.0	SM C18:0	Sphingomyeline_C18:0	Sphingomyeline C18:0	sphingolipids
+156	SM.C18.1	SM C18:1	Sphingomyeline_C18:1	Sphingomyeline C18:1	sphingolipids
+157	SM.C20.2	SM C20:2	Sphingomyeline_C20:2	Sphingomyeline C20:2	sphingolipids
+158	SM.C22.3	SM C22:3	Sphingomyeline_C22:3	Sphingomyeline C22:3	sphingolipids
+159	SM.C24.0	SM C24:0	Sphingomyeline_C24:0	Sphingomyeline C24:0	sphingolipids
+160	SM.C24.1	SM C24:1	Sphingomyeline_C24:1	Sphingomyeline C24:1	sphingolipids
+161	SM.C26.0	SM C26:0	Sphingomyeline_C26:0	Sphingomyeline C26:0	sphingolipids
+162	SM.C26.1	SM C26:1	Sphingomyeline_C26:1	Sphingomyeline C26:1	sphingolipids
+163	H1	H1	Hexose	Hexose	sugars

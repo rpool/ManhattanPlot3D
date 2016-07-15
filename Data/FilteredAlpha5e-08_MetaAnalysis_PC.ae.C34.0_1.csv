@@ -1,0 +1,2 @@
+MarkerName,Allele1,Allele2,Freq1,FreqSE,MinFreq,MaxFreq,Effect,StdErr,P-value,Direction,HetISq,HetChiSq,HetDf,HetPVal
+rs247616,t,c,0.3374,0.0269,0.2857,0.3813,0.0307,0.0054,1.637e-08,+++++++,0.0,5.124,6,0.528
